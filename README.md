@@ -14,6 +14,7 @@ All figures come from PepsiCo's annual reports on Form 10-K, filed with the SEC.
 
 | Folder | Contents |
 | --- | --- |
+| `framework/` | `project_framework.md`: the question, scope, data rules and analysis approach |
 | `data/` | `01_data_extraction.ipynb`: extraction, validation against the filings, segment reconciliation and export |
 | `analysis/` | `PepsiCo_FSA.xlsx`: verified data and the analysis workbook |
 
